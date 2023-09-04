@@ -1,0 +1,94 @@
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/appsettings.Development.json
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/appsettings.json
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.exe
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.deps.json
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.runtimeconfig.json
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.pdb
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Humanizer.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/MySqlConnector.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.csproj.AssemblyReference.cache
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.AssemblyInfoInputs.cache
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.AssemblyInfo.cs
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.csproj.CoreCompileInputs.cache
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.Alkompis_WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.build.Alkompis_WebApi.props
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Alkompis_WebApi.props
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Alkompis_WebApi.props
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets.pack.json
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets.build.json
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets.development.json
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/scopedcss/bundle/Alkompis_WebApi.styles.css
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.csproj.CopyComplete
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/refint/Alkompis_WebApi.dll
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.pdb
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.genruntimeconfig.cache
+D:/My Project/Upwork Projects/Task2/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/ref/Alkompis_WebApi.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/appsettings.json
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.deps.json
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.runtimeconfig.json
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Alkompis_WebApi.pdb
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/MySqlConnector.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.csproj.AssemblyReference.cache
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.AssemblyInfoInputs.cache
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.AssemblyInfo.cs
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.csproj.CoreCompileInputs.cache
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.Alkompis_WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.build.Alkompis_WebApi.props
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Alkompis_WebApi.props
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Alkompis_WebApi.props
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/scopedcss/bundle/Alkompis_WebApi.styles.css
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.csproj.CopyComplete
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/refint/Alkompis_WebApi.dll
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.pdb
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/Alkompis_WebApi.genruntimeconfig.cache
+/Users/yazanibesh/Downloads/AlkompisApp/Alkompis_WebApi/obj/Debug/net6.0/ref/Alkompis_WebApi.dll
